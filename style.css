@@ -1,17 +1,8 @@
-#menu{
-    width:200px;
-    background:yellow;
+#p2{
+    display:none;
    }
-   #menu a{
-    color:#2b3845;
-    text-decoration:none;
-    display:block;
+   #p4{
+    visibility:hidden;
    }
-   #menu a:hover{
-    color:#92A9BF;
-    background:blue;
-   }
-   h5, p{
-    display:inline;
-   }
+   
    
